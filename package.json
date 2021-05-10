@@ -18,7 +18,7 @@
     "@angular/cli": "~10.0.8",
     "@angular/common": "~10.0.14",
     "@angular/compiler": "~10.0.14",
-    "@angular/compiler-cli": "~10.0.14",
+    "@angular/compiler-cli": "~11.2.10",
     "@angular/core": "~10.0.14",
     "@angular/forms": "~10.0.14",
     "@angular/material": "^10.1.3",
