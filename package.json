@@ -39,7 +39,7 @@
     "ngx-device-detector": "^2.0.0",
     "ngx-logger": "^4.1.9",
     "ngx-perfect-scrollbar": "^10.0.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^5.0.0",
     "path": "^0.12.7",
     "rxjs": "~6.5.5",
     "sass-loader": "^10.0.1",
